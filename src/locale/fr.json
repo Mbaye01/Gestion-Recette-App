@@ -1,43 +1,32 @@
 {
-  
-  "navbar": {
-    "recipes": "Recette",
-    "axiosRecipes": "Categorie"
-  },
-  "buttons": {
-    "english": "Anglais",
-    "french": "Français",
-    "addCategory": "Ajouter une catégorie",
-    "close": "Fermer"
-  },
-  "table": {
-    "id": "Id",
-    "name": "Nom",
-    "actions": "Actions"
-  },
-  "modal": {
-    "categoryDetails": "Détails de la Catégorie",
-    "name": "Nom"
-  },
-
-  "buttons": {
-    "english": "Anglais",
-    "french": "Français",
-    "add": "Ajouter",
-    "cancel": "Annuler"
-  },
-  
-  "buttons": {
-    "english": "English",
-    "french": "French",
-    "add": "Ajouter",
-    "cancel": "Annuler"
-  },
-  "Recipe management":"Gestion De Recette",
-  "form": {
-    "name": "Nom"
-  },
- 
+    "navbar": 
+    {
+        "recipes": "Recette",
+        "axiosRecipes": "Categorie"
+    },
+    "buttons": 
+    {
+        "english": "English",
+        "french": "French",
+        "add": "Ajouter",
+        "cancel": "Annuler"
+    },
+    "table": 
+    {
+        "id": "Id",
+        "name": "Nom",
+        "actions": "Actions"
+    },
+    "modal": 
+    {
+        "categoryDetails": "Détails de la Catégorie",
+        "name": "Nom"
+    },
+    "Recipe management": "Gestion De Recette",
+    "form": 
+    {
+        "name": "Nom"
+    },
     "title": "Titre",
     "ingredients": "Ingrédients",
     "type": "Type",
@@ -48,33 +37,26 @@
     "cancel": "Annuler",
     "size_is": "La taille est {size}",
     "categorySelect": "Sélectionnez une catégorie",
-      "add_recipe": "Ajouter une recette",
-      "id": "ID",
-     
-      "ingredients": "Ingrédients",
-      "recipe_type": "Type de recette",
-      "actions": "Actions",
-      "recipe_details": "Détails de la Recette",
-      "type": "Type",
-      "close": "Fermer",
-     "category": "catégorie",
-      "ingredients": "Ingrédients",
-      "type": "Type",
-      "starter": "Entrée",
-      "main_course": "Plat",
-      "dessert": "Dessert",
-      "save": "Enregistrer",
-      "cancel": "Annuler",
+    "add_recipe": "Ajouter une recette",
+    "id": "ID",
+    "recipe_type": "Type de recette",
+    "actions": "Actions",
+    "recipe_details": "Détails de la Recette",
+    "close": "Fermer",
+    "category": "catégorie",
+    "starter": "Entrée",
+    "save": "Enregistrer",
     "welcome_message": "Bienvenue, vous êtes au bon endroit",
-  "yassa": {
-    "description": "Le Poulet Yassa est un plat à base de poulet mariné dans une sauce à l'oignon, citron, moutarde et épices, puis grillé ou frit. Il est généralement servi avec du riz."
-  },
-  "niebe": {
-    "description": "Le Niébé est un plat populaire en Afrique de l'Ouest, souvent préparé avec des haricots blancs ou rouges cuits dans une sauce épicée à base de tomates, oignons, ail, et parfois avec de la viande ou du poisson."
-  },
-  "rice": {
-    "description": "Le Riz au Poisson est composé de riz cuit dans une sauce tomate épicée avec du poisson, des légumes (carottes, chou, aubergines), et des épices, offrant une saveur riche et délicieuse."
-  }
-    
-  }
-  
+    "yassa": 
+    {
+        "description": "Le Poulet Yassa est un plat à base de poulet mariné dans une sauce à l'oignon, citron, moutarde et épices, puis grillé ou frit. Il est généralement servi avec du riz."
+    },
+    "niebe": 
+    {
+        "description": "Harico est un plat populaire en Afrique de l'Ouest, souvent préparé avec du viande rouge cuits dans une sauce épicée à base de tomates, oignons, ail, et parfois avec du poisson."
+    },
+    "rice": 
+    {
+        "description": "Le Riz au Poisson est composé de riz cuit dans une sauce tomate épicée avec du poisson, des légumes (carottes, chou, aubergines), et des épices, offrant une saveur riche et délicieuse."
+    }
+}

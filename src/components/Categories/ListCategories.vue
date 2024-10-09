@@ -135,7 +135,7 @@ const destroyCategory = (id) => {
   background-color: #343a40; 
 }
 .clr:hover {
-  background-color: #24272a; 
+  background-color: #25282c; 
 }
 .page-background {
   background-color: #f0f0f0;

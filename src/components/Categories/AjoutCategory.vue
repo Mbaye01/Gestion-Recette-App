@@ -1,14 +1,9 @@
 <template>
   <div class="container">
-    <!-- <div class="mb-4 d-flex justify-content-end">
-      <button @click="changeLanguage('en')" class="btn btn-info me-2">{{ $t('buttons.english') }}</button>
-      <button @click="changeLanguage('fr')" class="btn btn-info">{{ $t('buttons.french') }}</button>
-    </div> -->
     <form
       @submit.prevent="addCategory"
       class="formulaire form mb-5 shadow p-3 mb-5 bg-body rounded"
     >
-    <!-- <h1>{{ `size is ${size}` }}</h1> -->
 
       <div class="mb-3">
         <label for="name" class="form-label">{{ $t('form.name') }} :</label>
@@ -20,24 +15,7 @@
           required
         />
       </div>
-      <!-- <div class="mb-3">
-        <label for="ingredient" class="form-label">Ingrédients :</label>
-        <textarea
-          class="form-control"
-          v-model="ingredient"
-          id="ingredient"
-          required
-        ></textarea>
-      </div>
-
-      <div class="mb-3">
-        <label for="type" class="form-label">Type :</label>
-        <select class="input form-select" v-model="type" id="type" required>
-          <option value="Entrée">Entrée</option>
-          <option value="Plat">Plat</option>
-          <option value="Dessert">Dessert</option>
-        </select>
-      </div> -->
+      
       <button class="clr btn text-white mt-3 mb-4 me-3"> {{ $t('buttons.add') }}</button>
       <RouterLink
         class="list text-decoration-none text-white me-5 fw-bold"

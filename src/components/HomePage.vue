@@ -13,7 +13,7 @@
             style="height: 12rem"
           />
           <div class="card-body">
-            <h5 class="card-title">Poulet </h5>
+            <h5 class="card-title">riz au Poisson</h5>
             <p class="card-text">
               {{ $t('yassa.description') }}
             </p>
@@ -30,7 +30,7 @@
             style="height: 12rem"
           />
           <div class="card-body">
-            <h5 class="card-title">Harico</h5>
+            <h5 class="card-title">Harico au viande</h5>
             <p class="card-text">
               {{ $t('niebe.description') }}
             </p>
@@ -47,7 +47,7 @@
             style="height: 12rem"
           />
           <div class="card-body">
-            <h5 class="card-title">Riz au Poisson</h5>
+            <h5 class="card-title">Poulet Yassa</h5>
             <p class="card-text">
               {{ $t('rice.description') }}
             </p>

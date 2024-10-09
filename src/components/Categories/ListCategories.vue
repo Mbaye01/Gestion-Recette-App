@@ -132,10 +132,10 @@ const destroyCategory = (id) => {
   padding: 20px;
 }
 .clr {
-  background-color: #343a40; 
+  background-color: #343c44; 
 }
 .clr:hover {
-  background-color: #25282c; 
+  background-color: #24272c; 
 }
 .page-background {
   background-color: #f0f0f0;

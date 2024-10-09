@@ -172,3 +172,60 @@ const changeLanguage = (locale) => {
   padding: 20px;
 }
 </style>
+
+
+
+<!-- <style scoped>
+@media (max-width: 576px) {
+  .btn i {
+    font-size: 16px !important;
+  }
+}
+
+
+@media (max-width: 768px) {
+  .table {
+    font-size: 12px;
+  }
+  .table th, .table td {
+    padding: 8px;
+  }
+}
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal-content {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  max-width: 500px;
+  width: fit-content;
+  position: relative;
+}
+
+.modal-body {
+  padding: 20px;
+}
+.clr {
+  background-color: #343a40; 
+}
+.clr:hover {
+  background-color: #24272a; 
+}
+.page-background {
+  background-color: #f0f0f0;
+  min-height: 90vh;
+  height: fit-content;
+  color: #333;
+  padding: 20px;
+}
+</style> -->

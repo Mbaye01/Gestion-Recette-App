@@ -1,7 +1,8 @@
 import { createRouter, createWebHistory } from "vue-router";
 import RecetteView from "../views/RecetteView.vue";
 
-// import AxiosRecetteView from "../components/TestAxios/ListRecette.vue";
+// import { createRouter, createWebHistory } from "vue-router";
+// import RecetteView from "../views/RecetteView.vue";
 
 import AjoutRecette from "@/components/Recettes/AjoutRecette.vue";
 import ListRecette from "@/components/Recettes/ListRecette.vue";

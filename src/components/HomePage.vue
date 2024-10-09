@@ -6,12 +6,12 @@
     <div class="row mt-5 justify-content-center">
       <div class="col-sm-12 col-md-6 col-lg-4 mb-4">
         <div class="card h-100">
-          <img
+          <!-- <img
             src="/src/assets/images/poulet-yassa.jpg"
             class="card-img-top"
             alt="Poulet Yassa"
             style="height: 12rem"
-          />
+          /> -->
           <div class="card-body">
             <h5 class="card-title">riz au Poisson</h5>
             <p class="card-text">
